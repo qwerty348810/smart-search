@@ -1,0 +1,7 @@
+.brand-item__description{
+    width: 200px;
+}
+.brand-item__description:hover{
+    background-color: #d9d9d9;
+    cursor: pointer;
+}
